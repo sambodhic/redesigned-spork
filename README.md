@@ -1,7 +1,7 @@
 # redesigned-spork  
 Scala Spark Kafka  
 
-Testing out StructuredKafkaWordCount.scala in the following environement -  
+Testing out StructuredKafkaWordCount.scala in the following environment -  
 (Spark 3.4.0 using Scala version 2.12.17, OpenJDK 64-Bit Server VM, 17.0.7, Kafka 3.4.0, Zookeeper 3.6.3)  
 
 Start Zookeeper  
